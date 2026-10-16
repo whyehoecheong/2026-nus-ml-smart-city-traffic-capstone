@@ -189,3 +189,5 @@ CREATE VIEW IF NOT EXISTS v_annual_traffic_comparison AS
 	 SELECT * 
     FROM v_holiday_traffic_temp_comparison 
     WHERE year IN ('2015', '2016', '2017') ;
+	
+	Select count(*) from Metro_Interstate_Traffic_Volume
