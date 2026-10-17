@@ -1,0 +1,9 @@
+2026-10-17 06:43:27,470 [INFO] cli_app: Command invoked: weekday-vs-weekend with arguments: {'debug': False}
+2026-10-17 06:43:28,346 [INFO] cli_app: Command invoked: query-datetime with arguments: {'debug': False, 'dt': '2012-10-02 09:00:00'}
+2026-10-17 06:43:29,250 [INFO] cli_app: Command invoked: query-datetime with arguments: {'debug': False, 'dt': 'INVALID-DATE-TIME-TEST'}
+2026-10-17 06:43:29,441 [ERROR] cli_app: Invalid datetime input format supplied: INVALID-DATE-TIME-TEST. Exception: Unknown datetime string format, unable to parse: INVALID-DATE-TIME-TEST, at position 0
+2026-10-17 06:45:11,664 [INFO] cli_app: Command invoked: weekday-vs-weekend with arguments: {'debug': False}
+2026-10-17 06:45:42,468 [INFO] cli_app: Command invoked: weekday-vs-weekend with arguments: {'debug': False}
+2026-10-17 06:45:43,388 [INFO] cli_app: Command invoked: query-datetime with arguments: {'debug': False, 'dt': '2012-10-02 09:00:00'}
+2026-10-17 06:45:44,292 [INFO] cli_app: Command invoked: query-datetime with arguments: {'debug': False, 'dt': 'INVALID-DATE-TIME-TEST'}
+2026-10-17 06:45:44,488 [ERROR] cli_app: Invalid datetime input format supplied: INVALID-DATE-TIME-TEST. Exception: Unknown datetime string format, unable to parse: INVALID-DATE-TIME-TEST, at position 0
